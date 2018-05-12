@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '39600'
     url: http://www.gutenberg.org/2009/agents/39600
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38660#Observations-grammaticales-sur-quelques-articles-du-Dictionnaire-du-mauvais-langage
 gutenberg_bookshelf: FR Langues
 gutenberg_issued: '2012-01-24'
 gutenberg_type: Text
